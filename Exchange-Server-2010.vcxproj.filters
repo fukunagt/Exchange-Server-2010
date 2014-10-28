@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="script">
+      <UniqueIdentifier>{60b9788f-8cdb-402b-89c9-b3410a02f3b2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="script\CheckExchangeServices.ps1">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\CheckExchangeServices01.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\CheckExchangeServices02.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlActiveDirectory.ps1">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlActiveDirectory01.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlActiveDirectory02.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlMailboxDatabase.ps1">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlMailboxDatabase01.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\ControlMailboxDatabase02.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="script\SetEnvironment.bat">
+      <Filter>script</Filter>
+    </None>
+  </ItemGroup>
+</Project>
