@@ -64,6 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="script\CheckExchangeServices.ps1" />
     <None Include="script\CheckExchangeServices01.bat" />
     <None Include="script\CheckExchangeServices02.bat" />

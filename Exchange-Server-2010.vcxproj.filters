@@ -36,5 +36,6 @@
     <None Include="script\SetEnvironment.bat">
       <Filter>script</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
